@@ -5,7 +5,6 @@ a {
 a:hover {
 	text-decoration: underline;
 }
-
 header {
 	width: 100%;
 	height: 30px;
@@ -33,6 +32,8 @@ nav li {
 	position: absolute;
 	background-image: url('https://ssl.gstatic.com/gb/images/i1_1967ca6a.png');
 	background-position: 393px 93px;
+	top: 25px;
+	right: 157px;
 }
 
 #signin {
